@@ -21,3 +21,5 @@ There are programming languages they uses interpreter some popular one among the
 python uses the cpython interpreter for c environments and other.
 javascript used v8 in chrome.
 
+Today i had revised some of the important concepts of the java they are collections and i need to have more clarity on it.
+like Arraylist, linkedlist, treeset, linkedhash set, hashset and so on.
